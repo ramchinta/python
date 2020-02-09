@@ -35,7 +35,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.missingNumbersInList">
-    <configuration name="atoi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GCD" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atoi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GCD.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -56,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="firstNonRepeatedCharacter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="activeInactiveProblem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstNonRepeatedCharacter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/activeInactiveProblem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,10 +143,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.missingNumbersInList" />
+        <item itemvalue="Python.activeInactiveProblem" />
+        <item itemvalue="Python.GCD" />
         <item itemvalue="Python.rectanglesOverLap" />
         <item itemvalue="Python.swapTwoNumbers" />
-        <item itemvalue="Python.atoi" />
-        <item itemvalue="Python.firstNonRepeatedCharacter" />
       </list>
     </recent_temporary>
   </component>
