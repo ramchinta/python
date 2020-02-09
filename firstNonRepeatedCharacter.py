@@ -1,7 +1,6 @@
 string = input('Enter String: ')
 numOfChar = 256
 def getCharCount(string):
-    print(string)
     count = [0] * numOfChar
     for i in string:
         count[ord(i)] = count[ord(i)] + 1
