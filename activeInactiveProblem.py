@@ -12,6 +12,6 @@ def cellCompete(states, days):
             else:
                 states1[i] = 1
         states = list(states1)
-    return states1
-print(cellCompete([1,0,0,0,0,1,0,0],1))
+    return states
+print(cellCompete([1,1,1,0,1,1,1,1],2))
 
