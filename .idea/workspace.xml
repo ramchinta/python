@@ -34,8 +34,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reverseInteger">
-    <configuration name="addTwoNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.atoiLeetCode">
+    <configuration name="atoiLeetCode" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/addTwoNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atoiLeetCode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.atoiLeetCode" />
         <item itemvalue="Python.reverseInteger" />
         <item itemvalue="Python.longestPalindromicSubstring" />
         <item itemvalue="Python.twoSum" />
         <item itemvalue="Python.longestSubstringWithoutRepeatingCharacters" />
-        <item itemvalue="Python.addTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
