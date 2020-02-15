@@ -49,3 +49,8 @@ class Solution:
         if node is None:
             return 'null'
         return ' ' + str(node.val) + ' ' + self.preorder(node.left) + ' ' + self.preorder(node.right)
+
+'''    
+Solution.isSubtree([3,4,5,1,2],[4,1,2])
+Sol: True
+'''
