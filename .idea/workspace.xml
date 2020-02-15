@@ -34,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.consumerDietProblem">
+  <component name="RunManager" selected="Python.rottingOranges">
     <configuration name="bestTimeToBuyAndSellStock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindromeNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rottingOranges" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/palindromeNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rottingOranges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rottingOranges" />
         <item itemvalue="Python.consumerDietProblem" />
         <item itemvalue="Python.mostCommonWord" />
         <item itemvalue="Python.bestTimeToBuyAndSellStock" />
         <item itemvalue="Python.validParentheses" />
-        <item itemvalue="Python.palindromeNumber" />
       </list>
     </recent_temporary>
   </component>
