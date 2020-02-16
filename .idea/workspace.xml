@@ -56,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="criticalConnectionInANetwork" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Number of dice rolls with target sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/criticalConnectionInANetwork.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Number of dice rolls with target sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,10 +143,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Find words that can be formed by characters" />
+        <item itemvalue="Python.Number of dice rolls with target sum" />
         <item itemvalue="Python.twoSumLessThanK" />
         <item itemvalue="Python.rottingOranges" />
         <item itemvalue="Python.cutOffTreesForGolfEvent" />
-        <item itemvalue="Python.criticalConnectionInANetwork" />
       </list>
     </recent_temporary>
   </component>
