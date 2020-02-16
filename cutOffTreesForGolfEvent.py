@@ -74,6 +74,7 @@ class Solution(object):
     def cutOffTree(forest):
         trees = sorted((v, r, c) for r, row in enumerate(forest)
                        for c, v in enumerate(row) if v > 1)
+        print(trees)
         sr = sc = ans = 0
         for _, tr, tc in trees:
             d = dist(forest, sr, sc, tr, tc)
@@ -83,3 +84,4 @@ class Solution(object):
         return ans
 
 print(Solution.cutOffTree([[1,2,3],[0,0,4],[7,6,5]]))
+#6
