@@ -25,7 +25,7 @@ P     I'''
 
 
 class Solution:
-    def convert(s, numRows):
+    def convert(s, numRows):# O(1) space and O(n) time:
         if s == None:
             return s
         if numRows == 0:
@@ -53,5 +53,52 @@ class Solution:
 
         return rstr
 
+
+class Solution1:
+    def convert(s, numRows):
+        """
+        :type s: str
+        :type numRows: int
+        :rtype: str
+        """
+        lin = 0
+        pl = 1
+        outp = [""] * numRows
+        for i in range(len(s)):
+            outp[lin] += s[i]
+            if numRows > 1:
+                lin += pl
+                if lin == 0 or lin == numRows -1:
+                    pl *= -1
+        outputStr = ""
+        for j in range(numRows):
+            outputStr += outp[j]
+        return outputStr
+
+class Solution2:
+    def convert(s, numRows):
+        """
+        :type s: str
+        :type numRows: int
+        :rtype: str
+        """
+        lin = 0
+        pl = 1
+        outp = [""] * numRows
+        for i in range(len(s)):
+            outp[lin] += s[i]
+            if numRows > 1:
+                lin += pl
+                if lin == 0 or lin == numRows -1:
+                    pl *= -1
+        outputStr = ""
+        for j in range(numRows):
+            outputStr += outp[j]
+        return outputStr
+
 print(Solution.convert('Paypalishiring',4))
+print(Solution1.convert('Paypalishiring',4))
+print(Solution2.convert('Paypalishiring',4))
+
+
 #Pinalsigyahrpi
