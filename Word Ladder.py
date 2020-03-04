@@ -60,7 +60,7 @@ class Solution(object):
         # Queue for BFS
         queue = collections.deque([(beginWord, 1)])
         # Visited to make sure we don't repeat processing same word.
-        visited = {beginWord: True}
+        visited = [beginWord]
         while queue:
             current_word, level = queue.popleft()
             for i in range(L):
@@ -75,7 +75,7 @@ class Solution(object):
                         return level + 1
                     # Otherwise, add it to the BFS Queue. Also mark it visited
                     if word not in visited:
-                        visited[word] = True
+                        visited.append(word)
                         queue.append((word, level + 1))
                 all_combo_dict[intermediate_word] = []
         return 0
