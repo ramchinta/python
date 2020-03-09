@@ -119,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Word Break" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Top K Frequent Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Word Break.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Top K Frequent Words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,10 +143,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Top K Frequent Elements" />
+        <item itemvalue="Python.Top K Frequent Words" />
         <item itemvalue="Python.Meeting Rooms II" />
         <item itemvalue="Python.Search a 2D matrix" />
         <item itemvalue="Python.Number Of Islands" />
-        <item itemvalue="Python.Word Break" />
       </list>
     </recent_temporary>
   </component>
