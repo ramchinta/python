@@ -74,3 +74,7 @@ class RandomizedSet:
 # param_1 = obj.insert(val)
 # param_2 = obj.remove(val)
 # param_3 = obj.getRandom()
+'''Input
+["RandomizedSet","insert","remove","insert","getRandom","remove","insert","getRandom"]
+[[],[1],[2],[2],[],[1],[2],[]]'''
+#[null,true,false,true,1,true,false,2]
