@@ -42,5 +42,5 @@ class Solution:
         else:
             return self.myPow(x * x, n // 2)
 
-print(Solution().myPow(2.0,10))
+print(Solution().myPow(2.0,10))#O(log n)
 #1024.0
