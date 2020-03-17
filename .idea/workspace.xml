@@ -34,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Frog Jump">
+  <component name="RunManager" selected="Python.Next Greater Element II">
     <configuration name="Frog Jump" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,8 +142,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Frog Jump" />
         <item itemvalue="Python.Next Greater Element II" />
+        <item itemvalue="Python.Frog Jump" />
         <item itemvalue="Python.LRU Cache" />
         <item itemvalue="Python.Remove Duplicates from sorted array" />
         <item itemvalue="Python.Multiply Strings" />
