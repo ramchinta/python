@@ -34,8 +34,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lastStoneWeight">
-    <configuration name="Largest Element Atleast twice of Others" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Last Stone Weight">
+    <configuration name="Last Stone Weight" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Largest Element Atleast twice of Others.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Last Stone Weight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Last Stone Weight" />
         <item itemvalue="Python.lastStoneWeight" />
         <item itemvalue="Python.romanToInteger" />
         <item itemvalue="Python.Trapping Rain Water" />
         <item itemvalue="Python.Minimum Cost Climbing stairs" />
-        <item itemvalue="Python.Largest Element Atleast twice of Others" />
       </list>
     </recent_temporary>
   </component>
