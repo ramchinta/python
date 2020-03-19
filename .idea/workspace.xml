@@ -34,8 +34,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.consumerDietProblem">
-    <configuration name="Binarry Search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Largest Element Atleast twice of Others">
+    <configuration name="Largest Element Atleast twice of Others" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binarry Search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Largest Element Atleast twice of Others.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Largest Element Atleast twice of Others" />
         <item itemvalue="Python.consumerDietProblem" />
         <item itemvalue="Python.Shortest Completing String" />
         <item itemvalue="Python.Sentence Similarity" />
         <item itemvalue="Python.Self Dividing Numbers" />
-        <item itemvalue="Python.Binarry Search" />
       </list>
     </recent_temporary>
   </component>
