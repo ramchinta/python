@@ -34,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Shortest Completing String">
+  <component name="RunManager" selected="Python.consumerDietProblem">
     <configuration name="Binarry Search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shortest Completing String.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lakshman\Documents\GitHub\python\Shortest Completing Word.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="To Lower Case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="consumerDietProblem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/To Lower Case.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/consumerDietProblem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.consumerDietProblem" />
         <item itemvalue="Python.Shortest Completing String" />
         <item itemvalue="Python.Sentence Similarity" />
         <item itemvalue="Python.Self Dividing Numbers" />
         <item itemvalue="Python.Binarry Search" />
-        <item itemvalue="Python.To Lower Case" />
       </list>
     </recent_temporary>
   </component>
