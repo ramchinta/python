@@ -34,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.romanToInteger">
+  <component name="RunManager" selected="Python.lastStoneWeight">
     <configuration name="Largest Element Atleast twice of Others" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="consumerDietProblem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lastStoneWeight" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/consumerDietProblem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lastStoneWeight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lastStoneWeight" />
         <item itemvalue="Python.romanToInteger" />
         <item itemvalue="Python.Trapping Rain Water" />
         <item itemvalue="Python.Minimum Cost Climbing stairs" />
         <item itemvalue="Python.Largest Element Atleast twice of Others" />
-        <item itemvalue="Python.consumerDietProblem" />
       </list>
     </recent_temporary>
   </component>
