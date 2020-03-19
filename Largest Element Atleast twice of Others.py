@@ -35,5 +35,5 @@ class Solution:
         if maxElement >= 2*maxElement1:
             return index
         return -1
-    
+
 print(Solution().dominantIndex([0,0,0,1]))
