@@ -63,3 +63,4 @@ class Solution:
 
 
 print(Solution.dietPlanPerformance([3,2],2,0,1))
+#1
