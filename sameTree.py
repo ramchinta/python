@@ -54,3 +54,6 @@ class Solution:
             return False
         return self.isSameTree(p.right, q.right) and \
                self.isSameTree(p.left, q.left)
+
+Solution().isSameTree([1,2,3],[1,2,3])
+#True
