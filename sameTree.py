@@ -57,3 +57,7 @@ class Solution:
 
 Solution().isSameTree([1,2,3],[1,2,3])
 #True
+'''Time complexity : O(N), where N is a number of nodes in the tree, since one visits each node exactly once.
+
+Space complexity : O(log(N)) in the best case of completely balanced tree and 
+O(N) in the worst case of completely unbalanced tree, to keep a recursion stack.'''
