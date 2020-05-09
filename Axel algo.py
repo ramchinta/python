@@ -7,3 +7,4 @@ def fun(a,b):
     print(out)
 fun([5,1],[1,2,3,4,1])
 
+#LinearSearch
